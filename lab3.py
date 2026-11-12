@@ -1,3 +1,5 @@
+#one more line with comment
+
 def capitalize(text, indexes):
     result = ""
     for i in range(len(text)):
